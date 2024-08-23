@@ -5,6 +5,6 @@ metadata:
 spec:
   clusterName: hello-config-sync
   git:
-    syncRepo: https://github.com/larkintuckerllc/hello-config-sync
+    syncRepo: https://github.com/Roopa-Sri3/standard-cfdemo
     secretType: none
     policyDir: policy
